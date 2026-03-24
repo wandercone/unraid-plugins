@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+    <PluginURL>https://raw.githubusercontent.com/wandercone/hakodeploy/main/plugin/hakodeploy.plg</PluginURL>
+    <PluginAuthor>wandercone</PluginAuthor>
+    <Beta>False</Beta>
+    <Category>Tools:</Category>
+    <Name>HakoDeploy</Name>
+    <Description>HakoDeploy configures and deploys the HakoFoundry container. A server chassis storage companion app that organizes and displays hard drive SMART data with powering monitoring and fan curves for your Hako-Core (Mini). This management is not suitable with the HF-L1 chassis unless a HakoForge Power Board is added.
+
+Select which block devices (HDD, SSD, NVMe) and USB serial power boards (ttyACM) to pass through to the container, configure the web UI port, appdata path, network type, and other standard container settings, then deploy in a single click.
+
+The plugin writes a dockerMan-compatible template and starts the container directly, with full integration into Unraid's Docker tab including the WebUI button, icon, and console shell.
+    </Description>
+    <Support>https://forums.unraid.net/topic/197930-plugin-hakodeploy/</Support>
+    <Icon>https://raw.githubusercontent.com/wandercone/hakodeploy/main/assets/icon.png</Icon>
+    <MinVer>7.1.0</MinVer>
+</Containers>
