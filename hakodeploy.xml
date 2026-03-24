@@ -5,7 +5,9 @@
     <Beta>False</Beta>
     <Category>Tools:</Category>
     <Name>HakoDeploy</Name>
-    <Description>HakoDeploy configures and deploys the HakoFoundry container. A server chassis storage companion app that organizes and displays hard drive SMART data with powering monitoring and fan curves for your Hako-Core (Mini). This management is not suitable with the HF-L1 chassis unless a HakoForge Power Board is added.
+    <Description>An Unraid plugin that configures and deploys HakoFoundry. A server chassis companion app that displays hard drive SMART data, monitors power, and manages fan curves for the Hako-Core (Mini). 
+        
+NOTE: To utilize power board features, a HakoForge Power Board is required on the HF-L1 chassis.
 
 Select which block devices (HDD, SSD, NVMe) and USB serial power boards (ttyACM) to pass through to the container, configure the web UI port, appdata path, network type, and other standard container settings, then deploy in a single click.
 
