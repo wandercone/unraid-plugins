@@ -14,6 +14,6 @@ Select which block devices (HDD, SSD, NVMe) and USB serial power boards (ttyACM)
 The plugin writes a dockerMan-compatible template and starts the container directly, with full integration into Unraid's Docker tab including the WebUI button, icon, and console shell.
     </Description>
     <Support>https://forums.unraid.net/topic/197930-plugin-hakodeploy/</Support>
-    <Icon>https://raw.githubusercontent.com/wandercone/hakodeploy/main/assets/icon.png</Icon>
+    <Icon>https://raw.githubusercontent.com/wandercone/HakoDeploy/main/main/assets/images/icon.png</Icon>
     <MinVer>7.1.0</MinVer>
 </Containers>
