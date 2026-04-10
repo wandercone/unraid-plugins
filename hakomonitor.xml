@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
-    <PluginURL>https://raw.githubusercontent.com/wandercone/HakoMonitor/refs/heads/main/plugin/hakomonitor.plg</PluginURL>
+    <PluginURL>https://raw.githubusercontent.com/wandercone/HakoMonitor/main/plugin/hakomonitor.plg</PluginURL>
     <PluginAuthor>wandercone</PluginAuthor>
     <Beta>False</Beta>
     <Category>Tools:</Category>
