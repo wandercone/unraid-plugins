@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+    <PluginURL>https://raw.githubusercontent.com/wandercone/HakoMonitor/refs/heads/main/plugin/hakomonitor.plg</PluginURL>
+    <PluginAuthor>wandercone</PluginAuthor>
+    <Beta>False</Beta>
+    <Category>Tools:</Category>
+    <Name>HakoMonitor</Name>
+    <Description>An Unraid plugin that monitors Hako Foundry. Displays fan wall RPM and PWM readings alongside per-shunt and total power wattage from connected HakoForge Power Boards.
+      NOTE: This plugin requires a version of Hako Foundry not yet available for public use.
+    </Description>
+    <Support>https://forums.unraid.net/topic/198214-plugin-hakomonitor/</Support>
+    <Icon>https://raw.githubusercontent.com/wandercone/HakoDeploy/main/main/assets/images/icon.png</Icon>
+    <MinVer>7.1.0</MinVer>
+</Containers>
