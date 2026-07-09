@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+    <PluginURL>https://raw.githubusercontent.com/wandercone/Updater/main/plugin/updater.plg</PluginURL>
+    <PluginAuthor>wandercone</PluginAuthor>
+    <Beta>False</Beta>
+    <Category>Tools:</Category>
+    <Name>Updater (Unofficial)</Name>
+    <DescriptionAn unofficial Unraid OS updater that installs any OS version directly to the boot device, supporting both manual updates from a download URL and automatic patch updates within your current major.minor branch.</Description>
+    <Support>https://github.com/wandercone/Updater/issues</Support>
+    <Icon>https://raw.githubusercontent.com/wandercone/Updater/main/main/assets/images/icon.png</Icon>
+    <MinVer>7.1.0</MinVer>
+</Containers>
